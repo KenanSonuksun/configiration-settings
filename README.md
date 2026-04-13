@@ -1,7 +1,5 @@
 # Config Settings
 
-A Spring Boot backend lab focused on **production-ready configuration**.
-
 ## Covers
 - profile-based config (`application.yml`, `application-local.yml`, `application-prod.yml`)
 - externalized configuration
