@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green)
+![Docker](https://img.shields.io/badge/Config-Settings-blue)
+
+
 # Config Settings
 
 ## Covers
